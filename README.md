@@ -1,7 +1,7 @@
 # Weather Station
 Weather station based on ATmega328p, made as final High school project.
 
-## Used:
+## Main components:
 ### MCUs
 - 2× ATmega328p
 ### Temperature sensors
