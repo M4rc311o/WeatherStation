@@ -12,7 +12,7 @@ Weather station based on ATmega328p, made as final High school project.
 - OLED SSD1306 0.91" 128×32 px
 ### Communication
 - STX882 433 MHz transmitter
-- SRX822 433 Mhz receiver
+- SRX822 433 MHz receiver
 
 *This repository was created just for archival purposes and the only available documenatation is in `WeatherStation.pdf` written in Czech\
 (feel free to ask about project)*
